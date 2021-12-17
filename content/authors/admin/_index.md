@@ -20,12 +20,11 @@ interests:
 - Microsimulation modelling
 - Data science
 - Transport, environment, social inequality, fiscal federalism
-- I used to work on game theory, auction theory, economic history
 
 organizations:
 - name: Université Saint-Louis - Bruxelles
   url: http://www.usaintlouis.be/
-role: Professor of Public Economics
+role: PhD Candidate in Public Economics
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,7 +45,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/antoine-de-mahieu-8947158a/?originalSubdomain=be
 superuser: true
-title: Tom Truyts
+title: Antoine de Mahieu
 ---
 
 Antoine de Mahieu is PhD Candidate in public economics at <a href="https://www.usaintlouis.be">UCLouvain Saint-Louis - Bruxelles</a>. His research interests include public finance, microsimulation modelling, transport and environmental economics, data science.
