@@ -1,5 +1,5 @@
 ---
-abstract: "This chapter analyzes the fiscal treatment of company cars in Belgium, identifies the mais elements that constitute the fiscal advantage of company cars and proposes a simulation tool to assess the impact of reforms in the fiscal treatment of company cars."
+abstract: "Belgium has implemented, following the example of other countries, in-work benefit policies since the early 2000’s, with the objective of increasing employment rates and fighting poverty. Belgian in-work benefits differ from most other in-work benefits as eligibility requires low hourly earnings. We study the effects extensions of those benefits would have both on labour supply and welfare, using a random-utility - random-opportunity model estimated on cross-sectional SILC datasets. Results show that further increasing the benefits would slightly increase labour supply and welfare of low-to-middle income deciles, but at very high net cost per job created. We compare our results with existing research and explain some mechanisms that possibly led to an underestimation of negative intensive margin labour supply responses in previous simulations."
 author_notes:
 - Equal contribution
 - Equal contribution
@@ -7,10 +7,7 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-- Gilles Grandjean
-- Christophe Speth
-- Fanny Vanrykel
-date: "2019-03-01"
+date: "2021-04-30"
 doi: ""
 featured: false
 image:
@@ -18,20 +15,20 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: "*Voitures de société et mobilité durable. Diagnostic et enjeux  (2019)*, Vandenbroucke, A. and Mezoued, A. and Vaesen, J. (eds.) Editions de l'Université de Bruxelles, pp. 263-297"
+publication: "*In-work Benefits in Belgium: Effects on Labour Supply and Welfare*, de Mahieu, A., International Journal of Microsimulation, vol 14, number 1, pp. 43--72"
 publication_short: ""
 publication_types:
 - "6"
-publishDate: "2019-03-01"
+publishDate: "2021-04-30"
 slides: ""
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Belgium has implemented, following the example of other countries, in-work benefit policies since the early 2000’s, with the objective of increasing employment rates and fighting poverty. Belgian in-work benefits differ from most other in-work benefits as eligibility requires low hourly earnings. We study the effects extensions of those benefits would have both on labour supply and welfare, using a random-utility - random-opportunity model estimated on cross-sectional SILC datasets. Results show that further increasing the benefits would slightly increase labour supply and welfare of low-to-middle income deciles, but at very high net cost per job created. We compare our results with existing research and explain some mechanisms that possibly led to an underestimation of negative intensive margin labour supply responses in previous simulations.
+
 tags:
-- Education
-title: "Reforming the fiscal treatment of company cars: the CoCaTax micro-simulation model"
+- Labour economics
+title: "In-work Benefits in Belgium: Effects on Labour Supply and Welfare"
 #url_code: ""
 #url_dataset: ""
-url_pdf: http://www.cocatax.be/Background.pdf
+url_pdf: https://microsimulation.pub/articles/00229
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
