@@ -1,12 +1,9 @@
 ---
 education:
   courses:
-  - course: PhD in Economics
-    institution: KU Leuven
-    year: 2008
   - course: PhD in Public Economics
     institution: UCLouvain - Saint-Louis Bruxelles
-    year: 2022
+    year: 2022 (forthcoming)
   - course: Research Master in Economics 
     institution: UCLouvain - UNamur
     year: 2014
@@ -16,13 +13,14 @@ education:
 email: "antoine.demahieu@usaintlouis.be"
 highlight_name: true
 interests:
-- Public finance
+- Public economics
+- Labour economics
 - Microsimulation modelling
 - Data science
-- Transport, environment, social inequality, fiscal federalism
+- Transport, environment, social inequality
 
 organizations:
-- name: Université Saint-Louis - Bruxelles
+- name: UCLouvain Saint-Louis - Bruxelles
   url: http://www.usaintlouis.be/
 role: PhD Candidate in Public Economics
 social:
@@ -48,5 +46,5 @@ superuser: true
 title: Antoine de Mahieu
 ---
 
-Antoine de Mahieu is PhD Candidate in public economics at <a href="https://www.usaintlouis.be">UCLouvain Saint-Louis - Bruxelles</a>. His research interests include public finance, microsimulation modelling, transport and environmental economics, data science.
+Antoine de Mahieu is PhD Candidate in public economics at <a href="https://www.usaintlouis.be">UCLouvain Saint-Louis - Bruxelles</a>. His research interests include public econmics, labour economics,  energy economics, tax-benefit micro-simulation and data science.
 
