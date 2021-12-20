@@ -4,7 +4,7 @@ header:
   image: ""
 title: Teaching
 type: page
-view: 1
+view: 0
 ---
 
 I am currently teaching assistant for the following courses:
