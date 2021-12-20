@@ -12,9 +12,9 @@ highlight_name: true
 interests:
 - Public economics
 - Labour economics
+- Energy economics
 - Microsimulation modelling
 - Data science
-- Transport, environment, social inequality
 
 organizations:
 - name: UCLouvain Saint-Louis - Bruxelles
