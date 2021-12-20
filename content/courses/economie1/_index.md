@@ -53,9 +53,3 @@ Regular personal work is critical for success. As the course goes on, each stude
 d) Paper assignment
 Each student will hand in a short paper in which concepts of the course are applied to a press article, chosen by the student from a list of press articles made available on the course website.  
 
-
-
-## Meet your instructor
-
-{{< mention "admin" >}}
-

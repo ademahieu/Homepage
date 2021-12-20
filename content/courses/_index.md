@@ -4,7 +4,11 @@ header:
   image: ""
 title: Teaching
 type: page
-view: 2
+view: 1
 ---
 
-I teach the following courses:
+I am currently teaching assistant for the following courses:
+
+
+
+Past courses: 
