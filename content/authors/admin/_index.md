@@ -1,9 +1,6 @@
 ---
 education:
   courses:
-  - course: PhD in Public Economics
-    institution: UCLouvain - Saint-Louis Bruxelles
-    year: 2022 (forthcoming)
   - course: Research Master in Economics 
     institution: UCLouvain - UNamur
     year: 2014
